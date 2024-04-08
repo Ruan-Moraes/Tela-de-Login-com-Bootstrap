@@ -1,4 +1,4 @@
-# Bootstrap_Login - Projeto de curso
+# Tela de Login com Bootstrap - Projeto de curso
 
 ![Tela de Login com Bootstrap](https://github.com/Ruan-Moraes/Bootstrap_Login/assets/129057792/8e1815f6-ee00-4ed0-85f9-9d7cbc48d1ed)
 
@@ -28,4 +28,4 @@ Você tem duas maneiras de testar o projeto:
 
 Se preferir, você pode acessar uma versão online do projeto hospedada no GitHub Pages. Basta acessar o seguinte link:
 
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Bootstrap_Login/)
+[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Tela-de-Login-com-Bootstrap/)
